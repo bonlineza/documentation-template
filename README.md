@@ -68,4 +68,5 @@ Then, briefly explain the development process
 -> ... a fully customized gallery component, etc. etc. etc. etc. 
 
 
+Next up check out the wiki [over here!](https://github.com/bonlineza/documentation-template/wiki)
 
