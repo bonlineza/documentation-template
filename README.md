@@ -11,28 +11,6 @@ Include an brief regarding the site, this is basically your understanding of wha
 
 This should be at least one paragraph but no longer than 3.
 
-### Credentials
-
-List all known credentials as shown below (note the formatting and stick to it)
-
-```
-# BDEV
-
-site									: bdev.co.za/<site-name>
-site wp-admin log in	: <wp-admin-username>
-site ftp ip						: <ip-used-to-connect-to-bdev>
-site ftp user					: <bdev-ftp-user>
-site ftp password			: <bdev-ftp-password>
-
-# PRODUCTION
-
-site url							: https://<link-to-site>
-site wp-admin log in 	: <wp-admin-username>
-site ftp ip						: <ip-used-to-connect-to-site>
-site ftp user					: <primary-ftp-user>
-site ftp password			: <primary-ftp-users-password>
-```
-
 ### Dependancies
 
 This section can include all the dependancies you have to run the project, typically this might look something like this...
